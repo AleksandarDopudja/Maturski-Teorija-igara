@@ -1,0 +1,41 @@
+c:\users\pc\documents\visual studio 2015\Projects\zavRad\zavRad\bin\Debug\zavRad.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\zavRad\zavRad\obj\Debug\zavRad.Form1.resources
+c:\users\pc\documents\visual studio 2015\Projects\zavRad\zavRad\obj\Debug\zavRad.Form2.resources
+c:\users\pc\documents\visual studio 2015\Projects\zavRad\zavRad\obj\Debug\zavRad.Properties.Resources.resources
+c:\users\pc\documents\visual studio 2015\Projects\zavRad\zavRad\obj\Debug\zavRad.csproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2015\Projects\zavRad\zavRad\bin\Debug\zavRad.exe
+c:\users\pc\documents\visual studio 2015\Projects\zavRad\zavRad\bin\Debug\zavRad.pdb
+c:\users\pc\documents\visual studio 2015\Projects\zavRad\zavRad\obj\Debug\zavRad.exe
+c:\users\pc\documents\visual studio 2015\Projects\zavRad\zavRad\obj\Debug\zavRad.pdb
+c:\users\pc\documents\visual studio 2015\Projects\zavRad\zavRad\obj\Debug\zavRad.csprojResolveAssemblyReference.cache
+F:\Maturski\zavRad\zavRad\bin\Debug\zavRad.exe.config
+F:\Maturski\zavRad\zavRad\obj\Debug\zavRad.exe
+F:\Maturski\zavRad\zavRad\obj\Debug\zavRad.pdb
+F:\Maturski\zavRad\zavRad\bin\Debug\zavRad.exe
+F:\Maturski\zavRad\zavRad\bin\Debug\zavRad.pdb
+F:\Maturski\zavRad\zavRad\obj\Debug\zavRad.csprojResolveAssemblyReference.cache
+F:\Maturski\zavRad\zavRad\obj\Debug\zavRad.Form1.resources
+F:\Maturski\zavRad\zavRad\obj\Debug\zavRad.Form2.resources
+F:\Maturski\zavRad\zavRad\obj\Debug\zavRad.Properties.Resources.resources
+F:\Maturski\zavRad\zavRad\obj\Debug\zavRad.csproj.GenerateResource.Cache
+G:\Maturski\zavRad\zavRad\bin\Debug\zavRad.exe.config
+G:\Maturski\zavRad\zavRad\bin\Debug\zavRad.exe
+G:\Maturski\zavRad\zavRad\bin\Debug\zavRad.pdb
+G:\Maturski\zavRad\zavRad\obj\Debug\zavRad.csprojAssemblyReference.cache
+G:\Maturski\zavRad\zavRad\obj\Debug\zavRad.Form1.resources
+G:\Maturski\zavRad\zavRad\obj\Debug\zavRad.Form2.resources
+G:\Maturski\zavRad\zavRad\obj\Debug\zavRad.Properties.Resources.resources
+G:\Maturski\zavRad\zavRad\obj\Debug\zavRad.csproj.GenerateResource.cache
+G:\Maturski\zavRad\zavRad\obj\Debug\zavRad.csproj.CoreCompileInputs.cache
+G:\Maturski\zavRad\zavRad\obj\Debug\zavRad.exe
+G:\Maturski\zavRad\zavRad\obj\Debug\zavRad.pdb
+H:\Maturski\zavRad\zavRad\bin\Debug\zavRad.exe.config
+H:\Maturski\zavRad\zavRad\bin\Debug\zavRad.exe
+H:\Maturski\zavRad\zavRad\bin\Debug\zavRad.pdb
+H:\Maturski\zavRad\zavRad\obj\Debug\zavRad.csprojResolveAssemblyReference.cache
+H:\Maturski\zavRad\zavRad\obj\Debug\zavRad.Form1.resources
+H:\Maturski\zavRad\zavRad\obj\Debug\zavRad.Form2.resources
+H:\Maturski\zavRad\zavRad\obj\Debug\zavRad.Properties.Resources.resources
+H:\Maturski\zavRad\zavRad\obj\Debug\zavRad.csproj.GenerateResource.Cache
+H:\Maturski\zavRad\zavRad\obj\Debug\zavRad.exe
+H:\Maturski\zavRad\zavRad\obj\Debug\zavRad.pdb
