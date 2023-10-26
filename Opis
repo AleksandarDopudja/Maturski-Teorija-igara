@@ -1,0 +1,4 @@
+Ovo je moj maturski rad radjen 2018 godine, na temu "Teorija igara".
+Radjen je u c#.
+Program koji je prilozen koristi mini-maks algoritam u igri iks-oks, gde igrac igra protiv kompjutera na nxn tabli.
+U ovom radu se proucava i alfa-beta algoritam.
